@@ -1,0 +1,75 @@
+complaint_id,complaint_date,room_number,department,complaint_description,reported_time,action_taken,remarks,status
+C001,23/2/25,D308,Civil/Sanitary,Bathroom & Toilet & Corridor Not Clean,,3rd floor - D,,Unknown
+C002,24/7/25,B604,Civil/Sanitary,Clean Bathroom Toilet,,6th floor - B,,Unknown
+C003,24/7/25,F415,Carpentry,Cupboard broken,,4th floor - F,,Unknown
+C004,25/7/25,F410,Civil/Sanitary,Clean Bathroom & Corridor,,4th floor - f,,Unknown
+C005,24/7/25,C213,Carpentry,Cupboard broken,,2nd Floor - C,,Unknown
+C006,24/7/25,C106,Civil/Sanitary,Washroom clean,,2nd floor C,,Unknown
+C007,24/7/25,C203,Civil/Sanitary,Washroom clean / Abhishek Muskan,,2nd floor C,,Unknown
+C008,24/7/25,B611,Civil/Sanitary,Washroom clean,,6th floor B,,Unknown
+C009,28/7/25,D606,Carpentry,Door opener,,6th floor D,,Unknown
+C010,28/7/25,E507,Plumbing,Basin Tap is not working / Low pressure in Taps,,5th floor E-Block,,Unknown
+C011,31/07/25,D015,Civil/Sanitary,Clean Bathroom & Toilet / They smell very bad,,Ground floor D-Block,,Unknown
+C012,31/7/25,B008,Carpentry,Door open problem,,Ground floor B-block,,Unknown
+C013,31/7/25,B019,Carpentry,Door open problem,,Ground-7 B,,Unknown
+C014,31/8/25,A604,Electrical,Electric plug,,8th floor,,Unknown
+C015,08-08-2026,B309,Electrical,No Main tubelight in room,,Light not working,,Unknown
+C016,03/08/26,B008,Carpentry,Door handle,,,,Unknown
+C017,13-08-2026,E613,Electrical,No Fan Regulator,,,,Unknown
+C018,17-08-2026,C612,Electrical,FAN NOT WORKING,,,,Unknown
+C019,18/08/26,E303,Carpentry/Sanitary,Door handle / Bathroom cleaning (blockage),,,,Unknown
+C020,19/08/26,E411,Electrical,FAN NOT WORKING,,,,Unknown
+C021,19/8/26,F215,Carpentry,Desk Drawer broken,,,,Unknown
+C022,19/8/26,E303,Carpentry/Electrical,Door handle / Corridor light,,,,Unknown
+C023,23/08/26,E303,Carpentry,"Door Handle broken, gf",,,,Unknown
+C024,27/08/26,D101,Carpentry,Door handle (carpenter),,,,Unknown
+C025,11/09/26,F216,Electrical,FAN - ISSUE,,,,Unknown
+C026,11/09/26,F216,Plumbing,Bathroom Faucet install,,,,Unknown
+C027,27/08/25,A109,Carpentry,Door handle missing,,,,Unknown
+C028,29-01/26,E Block 6th,Plumbing/Sanitary,Flush not working & Dustbin missing,,,,Unknown
+C029,29-01-26,F-Block Ground,Electrical,Inside my room electricity not working (like bulb & fan not working) Darkness,,,,Unknown
+C030,30-01-26,F-Block F-018,Electrical,Inside Room no bulb or tubelight working,,,,Unknown
+C031,31-01-26,F-607,Civil/Electrical,"For cleaning washroom, socket problem and room door broken",,For cleaning washroom socket problem and room door broken,,Unknown
+C032,13/02/26,C-608,Electrical,Fan speed is very slow,,Fan speed is very slow,,Unknown
+C033,21/3/26,C-107,,,,,,Unknown
+C034,07/2/26,6th floor D Block,Civil/Sanitary,Bathroom is Not been clean from 10 days,,,,Unknown
+C035,01/08/26,5th floor D Block,Plumbing/Sanitary,"Western washroom isn't usable, it is unsanitary and flush, light is broken and so still has leak taps. Geyser taps broken, bathroom not in usable",,,,Unknown
+C036,27/7/25,D416,Electrical,Tube light is flickering and intensity is very low,,,,Unknown
+C037,27/7/25,D203,Electrical,No Tubelight,,,,Unknown
+C038,27/7/25,D101,Electrical,No Tubelight,,,,Unknown
+C039,27/7/25,D204,Electrical,Tubelight is flickering. (ii) Intensity is very low.,,,,Unknown
+C040,27/7/25,F405,Electrical,"No power Tubelight, fan not working",,,,Unknown
+C041,27/7/25,F518,Electrical,No light & tubelight,,,Not present,Unknown
+C042,27/7/25,C314,Electrical,Switch Board is not working,,,,Unknown
+C043,27/07/25,D016,Electrical,Regulator not working,,,,Unknown
+C044,27/07/25,F412,Carpentry,No Table & Chair,,,,Unknown
+C045,27/07/25,F517,Electrical,Bulb holder is broken,,,,Unknown
+C046,27/07/25,F215,Electrical,Fan Condenser,,,,Unknown
+C047,27/03/25,B511,Electrical,Tube light,,,,Unknown
+C048,28/07/25,C411,Electrical,Tube light,,,,Unknown
+C049,28/07/25,C402,Electrical,Tube light,,,,Unknown
+C050,28/07/25,C408,Electrical/Civil,"No light in washroom, need 4 tube lights. No Table, No Tubelight. No bulb in room 246 Regulator not working",,,,Unknown
+C051,29/07/25,D513,Carpentry,Balcony door broken,after 6pm,,,Unknown
+C052,31/07/25,A308,Carpentry,Chair & table missing,after 8pm,,,Unknown
+C053,31/7/25,A202,Carpentry,Chair missing,after 2pm,,,Unknown
+C054,31/01/25,D014,Carpentry,Door problem and table missing,anytime,,,Unknown
+C055,31/7/25,D207,Carpentry,Doors problem,9-12 AM,,,Unknown
+C056,31/7/25,F116,Carpentry,No chair table,after 8pm,,,Unknown
+C057,01/08/25,E317,Carpentry/Electrical,Chair & tubelight,any time,,,Unknown
+C058,01/08/25,E302,Carpentry,"Chair, table, tools",any time,,,Unknown
+C059,01/08/25,E203,Carpentry,"Table, chair, door lock",any time,,,Unknown
+C060,01/08/25,B111,Carpentry,Door problem,8:00 AM to 2 PM,,,Unknown
+C061,01/08/25,B113,Carpentry,Chair missing,8:00 am to 2 pm,,,Unknown
+C062,05/08/25,E610,Carpentry/Electrical,"Table and chair are not there, Bed is broken, Regulator of fan is missing",,,,Unknown
+C063,05/08/25,E402,Carpentry,Chair is broken,,,,Unknown
+C064,05/08/25,E214,Carpentry,Chair is broken,,,,Unknown
+C065,05/08/25,F103,Carpentry,Chair is broken,,,,Unknown
+C066,07/07/25,F007,Network/LAN,LAN is broken / unresolved,,,,Unknown
+C067,7/08/25,E216,Carpentry,Locking problem not locking,,,,Unknown
+C068,7/8/25,E311,Carpentry,Table and chair not seen,,,,Unknown
+C069,7/8/25,E107,Carpentry,Chair not seen,,,,Unknown
+C070,9/8/25,A109,Carpentry/Electrical,Door handle was missing / Tubelight missing,,,,Unknown
+C071,9/8/25,D-504,Electrical,Tubelight is missing,,,,Unknown
+C072,9/4/25,A-403,Electrical,Tubelight is missing,,,,Unknown
+C073,25/8/25,C-416,Carpentry,Lock (heavy) broken,,,,Unknown
+C074,25/8/25,C-013,Plumbing,Geyser not working,,,,Unknown
